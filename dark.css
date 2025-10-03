@@ -74,7 +74,7 @@ main {
   --color-fg-subtle: oklch(0.50 0.02 260);
   --color-canvas-default: oklch(0.14 0 0);
   --color-canvas-overlay: oklch(0.16 0.01 260);
-  --color-canvas-inset: oklch(0.10 0 0);
+  --color-canvas-inset: oklch(0.20 0 0);
   --color-canvas-subtle: oklch(0.16 0.01 260);
   --color-border-default: oklch(0.25 0.01 260);
   --color-border-muted: oklch(0.20 0.01 260);
@@ -186,9 +186,9 @@ main {
   --color-scale-blue-8: #0c2d6b;
 
   /*! Extensions from @primer/css/alerts/flash.scss */
---color-social-reaction-bg-hover: var(--color-scale-gray-7);
+/* --color-social-reaction-bg-hover: var(--color-scale-gray-7);
 --color-social-reaction-bg-reacted-hover: var(--color-scale-blue-8);
-}
+} */
 
 */ main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line-dark.svg");
