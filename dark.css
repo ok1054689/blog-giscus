@@ -75,7 +75,7 @@ main {
   --color-canvas-default: oklch(0.14 0 0);
   --color-canvas-overlay: oklch(0.16 0.01 260);
   --color-canvas-inset: oklch(0.20 0 0);
-  --color-canvas-subtle: oklch(0.16 0.01 260);
+  --color-canvas-subtle: oklch(0.205 0 0);
   --color-border-default: oklch(0.25 0.01 260);
   --color-border-muted: oklch(0.20 0.01 260);
 
