@@ -159,7 +159,7 @@ main {
     --color-btn-primary-selected-shadow: 0 0 transparent;
     --color-btn-primary-disabled-text: oklch(1 0 0 / 80%);
     /* 调整为适合浅色主题的禁用文本 */
-    --color-btn-primary-disabled-bg: color-mix(in srgb, var(--primary) 50%, oklch(1 1 1));
+    --color-btn-primary-disabled-bg: color-mix(in srgb, var(--primary) 50%, oklch(1 0 0));
     /* 混合白色使其变浅 */
     --color-btn-primary-disabled-border: var(--border);
 
